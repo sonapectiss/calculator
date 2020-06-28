@@ -1,0 +1,27 @@
+.main{
+    border: 2px solidgrey;
+    width: 250px;
+    height:300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: rgba(0, 0, 0, 0.747)
+}
+.result{
+    width: 100px;
+    color: brown;
+    padding: 5px 48px;
+}
+.clrbtn{
+    width: 100px;
+    margin-top: 10px;
+    padding: 5px 98px;
+   margin-bottom: 5px;
+}
+.btn{
+    margin: 5px;
+    width: 45px;
+    margin: 1px;
+}
+.hlfbtn{
+    width: 63px;
+}
